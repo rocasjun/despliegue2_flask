@@ -29,4 +29,4 @@ def predict():
         con {stops} paradas, tiene un precio estimado de {output}")
 
 if __name__ == "__main__":
-    app.run()
+    app.run(host='0.0.0.0', port=80)
