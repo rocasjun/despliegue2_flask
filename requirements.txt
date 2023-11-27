@@ -1,5 +1,0 @@
-flask
-flask-sqlalchemy
-sklearn
-pandas
-scikit-learn
